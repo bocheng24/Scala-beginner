@@ -1,7 +1,7 @@
 package lectures.collections
 
 object lists extends App {
-
+  //  Lists
   //  Create new lists
 
   val intList = List(2, 4, 6, 8, 10)
